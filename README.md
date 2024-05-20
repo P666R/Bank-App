@@ -1,1 +1,1 @@
-# Banking App to Learn Redux and Redux Toolkit
+## Banking App to Learn and interact with Redux and Redux Toolkit
